@@ -1,5 +1,5 @@
 {
-  "description": "Change L_Shift to control + alt + space to switch input method",
+  "description": "Change R_Shift to control + alt + space to switch input method",
   "manipulators": [
     {
       "type": "basic",
